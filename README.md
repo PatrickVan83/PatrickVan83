@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PatrickVan83
 - 👀 I’m interested in ...Networking and Cybersecurity
 - 🌱 I’m currently learning ...Snort and Splunk
-- 💞️ I’m looking to collaborate on ...anything
+- 💞️ I’m looking to collaborate on ...SOC Dashboards
 - 📫 How to reach me ...here
 
 
